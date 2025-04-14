@@ -1,0 +1,16 @@
+{
+    "compatibility_date": "2025-04-01",
+    "main": "src/main.ts",
+    "name": "frosty-art-1b40",
+    "upload_source_maps": true,
+    "d1_databases": [
+      {
+        "binding": "DB",
+        "database_id": "da9e5d5a-6176-4f14-a0ca-91994681eb61",
+        "database_name": "throbbing-block-821e-d1"
+      }
+    ],
+    "observability": {
+      "enabled": true
+    }
+  }
