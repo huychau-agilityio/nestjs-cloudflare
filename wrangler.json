@@ -3,6 +3,8 @@
     "main": "src/main.ts",
     "name": "frosty-art-1b40",
     "upload_source_maps": true,
+    "compatibility_flags": ["nodejs_compat"],
+
     "d1_databases": [
       {
         "binding": "DB",
